@@ -1,6 +1,6 @@
 # andctl
 
-Termial-based control and live monitoring for Android devices.
+Terminal-based control and live monitoring for Android devices.
 
 > **Status:** early WIP
 
