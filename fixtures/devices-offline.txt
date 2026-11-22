@@ -1,0 +1,3 @@
+List of devices attached
+IP:HOST     offline product:ALI-NX3 model:ALI_NX3 device:HNALI-Q transport_id:34
+

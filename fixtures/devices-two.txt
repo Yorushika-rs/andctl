@@ -1,0 +1,4 @@
+List of devices attached
+SERIAL_A               device usb:1-2 product:ginkgo model:Redmi_Note_8 device:ginkgo transport_id:1
+adb-SERIAL_B-XXXXXX._adb-tls-connect._tcp device product:ALI-NX3 model:ALI_NX3 device:HNALI-Q transport_id:2
+
